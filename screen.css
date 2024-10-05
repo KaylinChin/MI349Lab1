@@ -1,6 +1,11 @@
-/*add screen styles below *?
+/*add screen styles below */
 
 body {
     background: #fff;
-    font-
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+    
 }
